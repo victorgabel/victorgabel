@@ -29,5 +29,5 @@
 💬 Always Feel free to reach out to me in Portuguese or English:
 <ul>
 <li>For non-academic subjects: <a href="mailto:victor.gabel@gmail.com">victor.gabel@gmail.com</a></li>
-<li>For academic subjects: <a href="victor.gabel@usp.br">victor.gabel@usp.br</a></li>
+<li>For academic subjects: <a href="mailto:victor.gabel@usp.br">victor.gabel@usp.br</a></li>
 </ul>
