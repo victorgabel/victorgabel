@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/static/v1?label=Work&message=Projects&color=f8efd4&style=for-the-badge&logo=GitHub">
 💻 I enjoy working on a variety of projects, from web development to data science. On this account, you'll find my oceanography-related projects. For a broader range of projects, including those developed by my students, check out my other account:<a href="https://github.com/vsgabel">vsgabel</a>.
 
-<br>
+---
 <img src="https://img.shields.io/static/v1?label=Work&message=Languages&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python"/></code>
