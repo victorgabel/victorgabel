@@ -8,7 +8,7 @@
 ---
 
 <img src="https://img.shields.io/static/v1?label=Work&message=Projects&color=f8efd4&style=for-the-badge&logo=GitHub">
-💻 I enjoy working on a variety of projects, from web development to data science. On this account, you'll find my oceanography-related projects. For a broader range of projects, including those developed by my students, check out my other account:<a href="https://github.com/vsgabel">vsgabel</a>.
+💻 I enjoy working on a variety of projects, from web development to data science. On this account, you'll find my oceanography-related projects. For a broader range of projects, including those developed by my students, check out my other account: <a href="https://github.com/vsgabel">vsgabel</a>.
 
 ---
 <img src="https://img.shields.io/static/v1?label=Work&message=Languages&color=f8efd4&style=for-the-badge&logo=GitHub">
@@ -28,6 +28,6 @@
 <img src="https://img.shields.io/static/v1?label=Myself&message=Contact&color=f8efd4&style=for-the-badge&logo=GitHub">
 💬 Always Feel free to reach out to me in Portuguese or English:
 <ul>
-<li>For non-academic subjects: victor.gabel@gmail.com</li>
-<li>For academic subjects: victor.gabel@usp.br</li>
+<li>For non-academic subjects: <a href="mailto:victor.gabel@gmail.com">victor.gabel@gmail.com</a></li>
+<li>For academic subjects: <a href="victor.gabel@usp.br">victor.gabel@usp.br</a></li>
 </ul>
