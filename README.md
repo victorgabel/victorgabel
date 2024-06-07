@@ -27,5 +27,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Myself&message=Contact&color=f8efd4&style=for-the-badge&logo=GitHub">
 💬 Always Feel free to reach out to me in Portuguese or English:
-- For non-academic subjects: victor.gabel@gmail.com
-- For academic subjects: victor.gabel@usp.br
+<ul>
+<li>For non-academic subjects: victor.gabel@gmail.com</li>
+<li>For academic subjects: victor.gabel@usp.br</li>
+</ul>
